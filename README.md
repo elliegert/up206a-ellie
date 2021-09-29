@@ -7,4 +7,4 @@ I'd love to learn the basics of coding to allow me to create both visually appea
 # Project Ideas
 * I'm interested in mapping heat and other environmental burdens, demographics, and disparities in equity to inform where and whhich LAUSD school sites should be prioritized for schoolyard greening projects
 * I'm also interested in mapping something related to biking, bike routes, streets that could accomodate bike lanes, etc. in LA 
-* I'm also interested in environemntal burdens throughout LA and 
+* I'm also interested in mapping environemntal burdens throughout LA and how/where to address those burdens 
