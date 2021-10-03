@@ -9,4 +9,4 @@ Datasets
 * Name of Data: Green Infrastructure Water Capture Capacity 
 *  Data Description: This dataset measures and tracks different green infrastructure stormwater capture systems that are implemented throughout LA. Not only does it track where these green infrastructure systems are located, but it also measures the amount of water captured. This dataset can be used to understand the efficacy of different stormwater capture methods, and can also explore where this type of infrastructure is lacking within the county. 
 * [Source](https://data.lacity.org/Sanitation/Green-Infrastructure-Water-Capture-Capacity/pdbw-x3k8)
-* [Data in repo URL]
+* [Data in repo URL])(https://github.com/elliegert/up206a-ellie/blob/cd7ff676a0731dedfef74353113e3855c615ab3f/Data/Water_Capture_by_Method.csv)
